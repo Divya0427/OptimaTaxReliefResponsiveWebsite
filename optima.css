@@ -1,0 +1,110 @@
+.optima-logo {
+    width: 136px;
+    height: 79px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+.optima-navbar {
+    background: transparent;
+}
+.navbar-light .navbar-nav .nav-link.optima-nav-link {
+    font-family: museo-slab-w01-100,serif;
+    color: #559BBF;
+}
+.museo-font-family {
+    font-family: museo-slab-w01-100,serif;
+}
+li.nav-item {
+    padding: 1.5rem 0.8rem 1.5rem 0.8rem;
+}
+.optima-blue-banner {
+    background: rgb(17, 87, 147)
+}
+.preview-image {
+    width: 492px;
+    height: 518px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+.plus-icon {
+    font-size: 90px;
+    color: #8080809e;
+}
+.optima-text-primary {
+    color: #086EB1;
+}
+.optima-text-success {
+    color: #529542;
+}
+.three-mobiles-image {
+    width: 477px;
+    height: 360px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+.extension {
+    background: rgb(232, 232, 232);
+}
+.blue-bg {
+    background: rgb(30, 58, 106);
+}
+.steps-color {
+    color: #ACECFF;
+}
+.step {
+    background: white;
+    width: 290px;
+    height: 372px;
+    position: relative;
+}
+.step-number {
+    background: #529542;
+    position: absolute;
+    left: 12px;
+    top: 12px;
+    padding: 0.25rem 0.75rem;
+}
+.group {
+    width: 444px;
+    height: 409px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+.group-icon {
+    width: 51px;
+    height: 51px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+.group-container {
+    padding: 3rem 8rem;
+}
+.video-overview-section {
+    background: rgb(72 140 60);
+}
+.youtube-video {
+    width: 427px;
+    height: 240px;
+}
+.bonus-color {
+    color: rgb(29, 57, 107)
+}
+.even-more-section {
+    border-right: solid 3px #529542;
+}
+.even-more-container {
+    border-bottom: solid 1px black;
+}
+.lighter-font {
+    font-size: 80%;
+    font-weight: 300;
+}
+.small-font {
+    font-size: 0.8rem;
+}
+.smallest-font {
+    font-size: 0.7rem;
+}
+.gray-color-font {
+    color: #CCCCCC;
+}
